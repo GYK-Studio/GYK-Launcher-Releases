@@ -1,7 +1,7 @@
-# GYK Launcher
+# GYK Launcher 
 
-Distribución oficial de GYK Launcher, desarrollado por GYK Studios.
+Official distribution of GYK Launcher, developed by GYK Studios. 
 
-Los instaladores para Windows y Linux y los manifiestos de actualización se publican en [Releases](https://github.com/GYK-Studio/GYK-Launcher-Releases/releases). El código fuente se mantiene en un repositorio privado.
+Installers for Windows and Linux and update manifests are published in [Releases](https://github.com/GYK-Studio/GYK-Launcher-Releases/releases). The source code is maintained in a private repository. 
 
-Descarga únicamente los archivos de las publicaciones oficiales.
+Only download files from official releases.
